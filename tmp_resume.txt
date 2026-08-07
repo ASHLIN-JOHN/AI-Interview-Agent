@@ -1,0 +1,3 @@
+John Doe
+Software Engineer
+Projects: Built a full-stack web app using React and FastAPI
